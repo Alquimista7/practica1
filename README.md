@@ -1,2 +1,1 @@
-# practica1
-practicando la creación de repositorio desde github
+Eliminé el comentario anterior para practicar los cambios
